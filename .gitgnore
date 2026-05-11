@@ -1,0 +1,16 @@
+# Sistema operacional — Windows
+Thumbs.db
+desktop.ini
+
+# Sistema operacional — macOS
+.DS_Store
+.AppleDouble
+
+# Editor — VS Code (configurações pessoais, não do projeto)
+.vscode/settings.json
+
+# Relatório gerado em aula — não faz parte do código-fonte
+historico.txt
+
+# Logs
+*.log
